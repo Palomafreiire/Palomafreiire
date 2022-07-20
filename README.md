@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**Palomafreiire/Palomafreiire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋‍♀️ Olá, tudo bem?! Sou Paloma Freire
 
-Here are some ideas to get you started:
+👩‍💻 Atualmente estou estudando para ser FullStack Java Junior pela Generation Brasil;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui irei postar todos os meus trabalhos da Generation, além de alguns projetos pessoais que venho trabalhando por fora...
+
+♀️ Meus pronomes: ela/dela
+
+🗺️ English speaker
+
+⚡ Portuguese brazilian native 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palomafreiire&show_icons=true&theme=panda)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palomafreiire&layout=compact&theme=panda)](https://github.com/palomafreiire/github-readme-stats)
+
+
+  
+          
+
+          
+          
+                   
+
+
+
+
+
