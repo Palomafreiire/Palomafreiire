@@ -1,6 +1,4 @@
-
-
-##🙋‍♀️ Olá, tudo bem?! Sou Paloma Freire
+🙋‍♀️ Olá, tudo bem?! Sou Paloma Freire
 
 👩‍💻 Atualmente estou estudando para ser FullStack Java Junior pela Generation Brasil;
 
