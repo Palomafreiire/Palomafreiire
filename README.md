@@ -1,8 +1,9 @@
 🙋‍♀️ Olá, tudo bem?! Sou Paloma Freire
 
-👩‍💻 Atualmente estou estudando para ser FullStack Java Junior pela Generation Brasil;
+👩‍💻 Atualmente estou curso Analise e desenvolvimento de Sistemas, recem formada em Java Fullstack pela Generation Brasil
 
-Aqui irei postar todos os meus trabalhos da Generation, além de alguns projetos pessoais que venho trabalhando por fora...
+Aqui estao alguns projetos que desenvolvi pela Generation e alguns outros mais 
+
 
 ♀️ Meus pronomes: ela/dela
 
