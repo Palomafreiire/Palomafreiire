@@ -1,6 +1,6 @@
 🙋‍♀️ Olá, tudo bem?! Sou Paloma Freire
 
-👩‍💻 Atualmente estou curso Analise e desenvolvimento de Sistemas, recem formada em Java Fullstack pela Generation Brasil
+👩‍💻 Atualmente estou cursando Analise e desenvolvimento de Sistemas, recem formada em Java Fullstack pela Generation Brasil
 
 Aqui estao alguns projetos que desenvolvi pela Generation e alguns outros mais 
 
